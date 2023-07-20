@@ -1,0 +1,10 @@
+.icon-wrapper{
+display: flex;
+flex-direction: column;
+gap: .8rem;
+}
+
+.list-items{
+    display: flex;
+    gap: .5rem;
+}
