@@ -29,7 +29,7 @@ const Home = () => {
         <div className="welcome">
           <div className="welcome-content">
             Welcome to
-            <span className="brand"> Perfect Touch Unisex Salon and Spa</span>.
+            <span className="brand"> Perfect Touch Unisex Salon and Spa.</span>
             We are a classical total body care service provider. Whether it is
             body massage, unisex salon or make up artistry, we are here for you
             for complete relaxation of mind.
